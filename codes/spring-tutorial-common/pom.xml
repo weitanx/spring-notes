@@ -54,10 +54,10 @@
 			<artifactId>jackson-databind</artifactId>
 		</dependency>
 
-		<!--util-->
 		<dependency>
-			<groupId>io.github.dunwu</groupId>
-			<artifactId>dunwu-common-data</artifactId>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-all</artifactId>
+			<version>5.4.1</version>
 		</dependency>
 	</dependencies>
 </project>
